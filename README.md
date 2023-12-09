@@ -1,6 +1,9 @@
 # Microservicio de Compras
-## Descripción
-Este microservicio se encarga de gestionar las compras de los productos de la empresa: *Colombian Clothes*.
+## Detalles
+- **Lenguaje de programación:** Java 17
+- **Framework:** Spring Boot 2.5.2
+- **Base de datos:** MySQL
+- **Nombre de la base de datos:** colombian-clothes-shopping // **Importante crearla y luego ejecutar Spring Boot**
 
 ## HTTP Métodos para el recurso Proveedor
 ### GET
